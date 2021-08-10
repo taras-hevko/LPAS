@@ -1,1 +1,2 @@
-[DEMO LINK](https://taras-hevko.github.io/LPAS/)
+[DEMO LINK](https://github.com/taras-hevko/LPAS)
+
